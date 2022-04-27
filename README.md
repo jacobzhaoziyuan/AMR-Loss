@@ -21,7 +21,7 @@ Automated facial age estimation has diverse real-world applications in multimedi
 
 
 <p align="center">
-<img src="https://github.com/jacobzhaoziyuan/AMRLoss/blob/main/assets/archi.png" width="550">
+<img src="https://github.com/jacobzhaoziyuan/AMR-Loss/blob/main/assets/archi.png" width="550">
 </p>
 
 
