@@ -7,7 +7,7 @@
 # Adaptive Mean-residue Loss for Robust Facial Age Estimation
 
 [![ICME2022](https://img.shields.io/badge/arXiv-2203.12454-blue)](https://arxiv.org/abs/2203.17156)
-[![ICME2022](https://img.shields.io/badge/Conference-ICME2022-green)](https://arxiv.org/abs/2203.17156)
+[![ICME2022](https://img.shields.io/badge/Conference-ICME2022-green)](https://ieeexplore.ieee.org/document/9859703)
 
 
 
